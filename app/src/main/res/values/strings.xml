@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Circle Image</string>
-    <string name="text1">Android Circle Image</string>
-    <string name="text2">Android Normal Image View</string>
+    <string name="text1">Android Circle ImageView</string>
+    <string name="text2">Android Normal ImageView</string>
 </resources>
